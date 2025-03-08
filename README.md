@@ -18,6 +18,6 @@ Dependencies Used:org.json: A simple JSON library for parsing API responses.
 API Used:A free and publicly available weather API that provides weather data for cities worldwide.
 Sending the HTTP Request:HttpClient is used to send a GET request.
 
-##OUTPUT:
+##OUTPUT:![Image](https://github.com/user-attachments/assets/065ba9aa-2924-4830-aede-027c5cb0f2ec)
 
 
